@@ -1,0 +1,18 @@
+.form {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.form li {
+    padding: 20px;
+}
+
+.video-wrapper {
+    width: 600px;
+    height: 200px;
+}
+
+canvas {
+    background: #eee;
+}
